@@ -1,0 +1,2 @@
+spark connect mongo.txt
+sbt scala seed.txt
